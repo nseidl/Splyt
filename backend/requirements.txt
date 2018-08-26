@@ -1,0 +1,9 @@
+Flask==0.12.2
+Flask-RESTful==0.3.6
+Flask-PyMongo==0.5.1
+pymongo==3.0.3
+boto3>=1.7.0
+requests>=2.16
+gunicorn==19.7.1
+Werkzeug==0.14.1
+
